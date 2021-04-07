@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "string": "cpp",
+        "xstring": "cpp",
+        "vector": "cpp",
+        "deque": "cpp",
+        "list": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
