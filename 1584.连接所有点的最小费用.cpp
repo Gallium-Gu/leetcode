@@ -5,6 +5,8 @@
  */
 
 // @lc code=start
+
+//我是你爹
 class Solution {
 public:
     int minCostConnectPoints(vector<vector<int>>& points) {
