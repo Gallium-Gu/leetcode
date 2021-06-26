@@ -29,8 +29,13 @@
 			"memory": "c",
 			"initializer_list": "c"
 		},
-		"editor.formatOnType": true,
-		"editor.formatOnPaste": true,
-		"editor.formatOnSave": true
+		"editor.formatOnType": false,
+		"editor.formatOnPaste": false,
+		"editor.formatOnSave": false,
+		"[cpp]": {
+			"editor.wordBasedSuggestions": true,
+			"editor.suggest.insertMode": "replace",
+			"editor.semanticHighlighting.enabled": true
+		}
 	}
 }
