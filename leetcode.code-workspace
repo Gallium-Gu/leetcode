@@ -27,7 +27,9 @@
 			"iterator": "c",
 			"string_view": "c",
 			"memory": "c",
-			"initializer_list": "c"
+			"initializer_list": "c",
+			"bitset": "cpp",
+			"type_traits": "cpp"
 		},
 		"editor.formatOnType": false,
 		"editor.formatOnPaste": false,

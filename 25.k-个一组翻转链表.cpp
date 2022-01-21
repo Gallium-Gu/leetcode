@@ -1,9 +1,3 @@
-// @before-stub-for-debug-begin
-#include <vector>
-#include <string>
-#include "commoncppproblem25.h"
-
-using namespace std;
 // @before-stub-for-debug-end
 
 /*
